@@ -22,7 +22,7 @@
 			</div>
 			<div class="title" id="intro">
 				<br>"Space"를 누르면 게임이 시작됩니다!</br>
-				<br>1,000점이 넘으면 자동으로 페이지를 이동합니다.</br>
+				<br>1,500점이 넘으면 자동으로 페이지를 이동합니다.</br>
 			</div>
 		</div>
 		<div class="bottom">

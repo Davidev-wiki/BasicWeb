@@ -1,0 +1,5 @@
+Created by Davidev
+
+<2022-07-11>
+	- reference.txt 추가
+	- Score Setting 변경 (Score '30' -> '1500')

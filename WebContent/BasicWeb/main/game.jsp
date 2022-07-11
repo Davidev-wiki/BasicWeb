@@ -611,8 +611,8 @@
     this.highestScore = Math.ceil(this.distanceRan);
     this.distanceMeter.setHighScore(this.highestScore);
     }
-    if (this.distanceRan > 30){
-    	alert("개잘하네.. ㅇㅋ 통과!");
+    if (this.distanceRan > 1500){
+    	alert("오.. 개잘하네.. 통과!");
     	location.href="main.jsp";
     }
     // Reset the time clock.
